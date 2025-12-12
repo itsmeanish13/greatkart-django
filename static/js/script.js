@@ -57,4 +57,12 @@ $(document).ready(function() {
     
 }); 
 // jquery end
+//   setTimeout(function() {
+//         $('.alert').each(function() {
+//             // Fade out slowly and remove from DOM
+//             $(this).fadeOut('slow', function() { 
+//                 $(this).remove(); 
+//             });
+//         });
+//     }, 5000);
 
